@@ -63,8 +63,25 @@ https://github.com/AnushkaMazumdar2/MediGenius/assets/140642505/ba1bf750-1138-45
 
 
 **Use of Intel API**
+We used TKinter to create a desktop-based application and Spacy for NLP-based processes like text sentence tokenization and lemmatization, and we used a Huggingface pretrained model to extrat disease names from a given sentence ( or ner processing).
+OneDNN (formerly known as MKL-DNN) is a high-performance deep learning library developed by Intel. It provides optimized primitives for deep learning workloads, making it well-suited for accelerating deep learning inference and training tasks on Intel hardware.
+Here's how OneDNN was used in conjunction with auto-training and other Intel API toolkits:
 
-**🚀 Usage **
+1. **Accelerating Model Inference**
+
+2. **Integration with Frameworks**
+
+3. **Optimizing Performance**
+
+4. **Scalability**
+
+In addition to OneDNN, we used other Intel toolkits:
+
+1. **Intel DevCloud for Edge**: Intel DevCloud for Edge provides a cloud-based development environment for edge computing applications. It offers access to Intel hardware accelerators, such as Intel Movidius Vision Processing Units (VPUs) and Intel FPGA-based accelerators, which can be used to accelerate inference for edge AI applications.
+2. **TensorFlow**
+3. **Spacy**
+
+**🚀 Usage**
 
 1. Run the desktop application.
 2. MediGenius will greet you and ask for your name.
