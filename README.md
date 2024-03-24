@@ -52,6 +52,16 @@ To implement various functionalities and ensure the smooth operation of the appl
 
 By leveraging these dependencies, we were able to implement various features and functionalities within the MediGenius application, ensuring its effectiveness and reliability in providing preliminary healthcare assistance to users.
 
+**Demo Video**
+
+The video below demonstrates how our chatbot assists people in diagnosing early symptoms, and informing them about what they may have, and also asking them to take precautionary measures.
+
+
+
+https://github.com/AnushkaMazumdar2/MediGenius/assets/140642505/ba1bf750-1138-45ef-bc9e-538af8d70f6c
+
+
+
 **Use of Intel API**
 
 **🚀 Usage **
